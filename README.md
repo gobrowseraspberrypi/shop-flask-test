@@ -1,3 +1,3 @@
-# Flask Forms - Pizza Shop
+# Flask Forms - web-Shop
 
-An in-class activity covered in Lesson 2 of WEB 1.1.
+a test with flask to make a site
